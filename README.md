@@ -7,7 +7,7 @@ range, and RGBD measurements from a humanoid robot. Use the IMU, odometry, and l
 to localize the robot and build a 2-D occupancy grid map of the environment.  Use the RGBD information
 to color the floor of your 2-D map.
 
-some SLAM Results:
+Here are some SLAM Results:
 
 ![image1](./1.png)
 ![image4](./0.png)
