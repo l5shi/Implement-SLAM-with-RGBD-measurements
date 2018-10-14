@@ -10,7 +10,7 @@ to color the floor of your 2-D map.
 SLAM Results:
 
 ![image1](./1.png)![image2](./2.png)
-![image3](./3.png)
+![image3](./3.png)![image4](./4.png)
 
 
 ## Here is my readme file for this project. I am using Python3.6
