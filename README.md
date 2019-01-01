@@ -14,7 +14,7 @@ Here are some SLAM Results:
 
 
 
-## Here is instruction for this project. I am using Python3.6
+## Here is instruction for this project. I used Python3.6
 load_data.py is the function loading the data sets, including lidar, joint, and cam data
 main.py is my core code. Runing it you will get the plot for the testset data  map.
 Particle_filter.py is the funtions which including softmax function, resampling function, and particle filter function
